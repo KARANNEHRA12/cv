@@ -1,0 +1,128 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  background-color: #edffec;
+  
+}
+.hero-image {
+  background-image: url("/css/IMG_20210315_155330.jpg");
+  background-color: #cccccc;
+  height: 700px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #334443;
+}
+
+.topnav {
+  background-color: transparent;
+  position: absolute;
+  left: 74%;
+}
+.topnav a {
+  padding: 10px;
+  color: black;
+  font-size: 20px;
+}
+.topnav a:hover {
+  background-color: #334443;
+}
+.intro {
+  font-family: "Sacramento", cursive;
+  font-size: 50px;
+}
+h3 {
+  font-family: "Merriweather", serif;
+}
+
+
+.myimg{
+  display: block;
+  height: 250px;
+  width: 250px;
+  position: relative;
+  left: 34%;
+  margin-top: 10px;
+   
+
+}
+.head {
+    font-size: 50px;
+}
+.info {
+    font-size: 25px;
+    font-family: "Merriweather", serif;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+}
+.circle{
+    height: 250px;
+    width: 250px;
+    padding-top: 30px;
+}
+hr{
+    border-top: dotted;
+    width: 5%;
+    height: 0px;
+    size: 10px;
+    align :center;
+}
+.hr1{
+    position: relative;
+    right:20%;
+} 
+.third{
+  padding-top: 3%;
+    padding-bottom: 5%;
+    padding-left: 25%;
+    padding-right: 25%;
+    font-size: 25px;
+    font-family: "Merriweather", serif;
+} 
+.webdev{
+  float: left;
+  height: 250px;
+  width: 250px;
+}
+.webdes{
+  float: right;
+  height: 250px;
+  width: 250px;
+}
+.fourth{  
+    padding-top: 3%;
+    padding-bottom: 5%;
+    padding-left: 25%;
+    padding-right: 25%;
+    font-size: 25px;
+    font-family: "Merriweather", serif;
+
+}.fifth{
+  background-color: #7eca9c;
+  height: 80px;
+  width: auto;
+}
+.btn{
+  background-color: grey;
+  border-radius: 8px;
+}
+h2{
+  color: #1f441e;
+}
+.t2{
+  color: #1f441e;
+}
